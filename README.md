@@ -22,5 +22,3 @@ Predict PK profiles for Voriconazole, Levetiracetam, Clopidogrel, and Etanercept
 - `/mrgsolve/pediatric_simulations/*.R`
 - `/analysis/pediatric_predictions.ipynb` with age-stratified PK plots, violin plots for variability
 
-## EMA Alignment
-Supports **Stage 2.2**: pediatric PBPK predictions.
